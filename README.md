@@ -10,4 +10,16 @@ General decision-making strategy used by computers across a variety of strategic
 - In other words, Level 1 nodes account for each and every possible next move.
 ## Looking into the Future of the Game
 - In a multiplayer game, we can imagine a game tree in which the root node is the current state of the board after Opponent B makes a move, and it’s Opponent A’s turn. 
-- 
+## Problems
+https://leetcode.com/problems/guess-the-word/
+
+
+## Reference
+https://www.youtube.com/watch?v=Ntu8nNBL28o
+
+https://www.youtube.com/watch?v=l-hh51ncgDI
+
+https://www.youtube.com/watch?v=trKjYdBASyQ
+
+https://www.youtube.com/watch?v=bOxdGdu1suk&t=360s
+
