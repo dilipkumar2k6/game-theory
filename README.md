@@ -13,6 +13,7 @@ General decision-making strategy used by computers across a variety of strategic
 ## Problems
 https://leetcode.com/problems/guess-the-word/
 
+https://leetcode.com/problems/divisor-game/
 
 ## Reference
 https://www.youtube.com/watch?v=Ntu8nNBL28o
