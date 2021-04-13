@@ -1,0 +1,18 @@
+function minMax(Any currentState, boolean isFirstPlayer) {
+	if the game end or run out move
+		return static evaluation;
+	
+	if(isFirstPlayer) {
+		max = -infinity;
+		for any possible move {
+			max = Math.max(max, minMax(nextState, false) // now is the second player's turn
+		}
+		return max;
+	} else  {  // second layer
+		min = +infinity;
+		for any possible move {
+			min = Math.min(min, minMax(nextState, true);// now is the first player's turn;
+		}
+		return min;
+	}
+}
